@@ -7,5 +7,5 @@ This notebook designed for Indonesian people who wants to learn about Data Scien
 
 ### Python Basic for Data Science
 
-
+- [1_Dasar_Pengenalan_Python.ipynb](1_Dasar_Pengenalan_Python.ipynb)
 
