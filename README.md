@@ -8,4 +8,4 @@ This notebook designed for Indonesian people who wants to learn about Data Scien
 ### Python Basic for Data Science
 
 - [1. Dasar Pengenalan Python](https://github.com/giantrksa/Python-Data-Science-Bootcamp-in-Bahasa-Indonesian/blob/master/1_Dasar-Pengenalan-Python-untuk-Data-Science/1_Dasar_Pengenalan_Python.ipynb)
-
+- [2. Numpy untuk Data Analisis](https://github.com/giantrksa/Python-Data-Science-Bootcamp-in-Bahasa-Indonesian/tree/master/2_Numpy_for_Data_Analysis)
